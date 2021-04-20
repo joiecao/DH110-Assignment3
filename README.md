@@ -49,6 +49,7 @@ Closing- A short wrap up of the interview as well as giving them the opportunity
 Interview Link
 Transcript Link
 
-## Step 6: Organize/Documentation
-Reflection
+Quotes
+
+## Step 6: Reflection
 
