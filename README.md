@@ -29,18 +29,26 @@ Users will most likely use the app while browsing PC parts or learning at home. 
 First, the users would read a quick crash course guide on PC building. Next, they are walked through each part and what kind of component would best suit their needs. Then, they will make a list of that they need to buy, and finally purchase the products either through the app or in a store. 
 
 ## Step 3: Pick research methods (or a combination of methods) 
-I will conduct my research using contextual inquiry/participatory observation over Discord. The session will be transcribed using Otter Voice and screen recorded using Streamlabs OBS. 
+I will conduct my research using contextual inquiry/participatory observation. The session will take place over Discord and will be transcribed using Otter Voice and screen recorded using Streamlabs OBS. 
 
 The interview will cover the following: 
 
 Introduction- A short overview of the interview 
+
 Background questions/contextual inquiry- Ask about previous PC building experience, what they about the community, if they feel that it is something too technical or difficult to get into. 
+
 Observation/User Activity- observe the user try to navigate PC part picker as well as conduct their own research on PC bulding as someone completely new to the hobby 
 Asking the user to do research on PC building and observe how easy/difficult it is to find resources. 
+
 Closing- A short wrap up of the interview as well as giving them the opportunity to ask me any questions 
 
-## Step 4: 
+## Step 4: Plan to get into the context & write down the observation/ interview guide 
+Interview Script
 
-## Step 5: 
+## Step 5: Conduct the research
+Interview Link
+Transcript Link
 
-## Step 6: 
+## Step 6: Organize/Documentation
+Reflection
+
