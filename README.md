@@ -33,13 +33,11 @@ I will conduct my research using contextual inquiry/participatory observation ov
 
 The interview will cover the following: 
 
-1. Background questions
-Ask about previous PC building experience, what the user knows about the community, if they feel that it is something too technical or difficult to get into. 
-
-2. Observation
-
-
-3. Follow-up questions a. These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+Introduction- A short overview of the interview 
+Background questions/contextual inquiry- Ask about previous PC building experience, what they about the community, if they feel that it is something too technical or difficult to get into. 
+Observation/User Activity- observe the user try to navigate PC part picker as well as conduct their own research on PC bulding as someone completely new to the hobby 
+Asking the user to do research on PC building and observe how easy/difficult it is to find resources. 
+Closing- A short wrap up of the interview as well as giving them the opportunity to ask me any questions 
 
 ## Step 4: 
 
