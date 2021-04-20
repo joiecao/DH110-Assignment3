@@ -43,7 +43,7 @@ Asking the user to do research on PC building and observe how easy/difficult it 
 Closing- A short wrap up of the interview as well as giving them the opportunity to ask me any questions 
 
 ## Step 4: Plan to get into the context & write down the observation/ interview guide 
-Interview Script
+[Interview Script](https://docs.google.com/document/d/1xmNEjj3Y_JK2kVyb3irpWhDprFh2awhz2SL9DJT4X0Q/edit?usp=sharing)
 
 ## Step 5: Conduct the research
 Interview Link
