@@ -46,10 +46,16 @@ Closing- A short wrap up of the interview as well as giving them the opportunity
 [Interview Script](https://docs.google.com/document/d/1xmNEjj3Y_JK2kVyb3irpWhDprFh2awhz2SL9DJT4X0Q/edit?usp=sharing)
 
 ## Step 5: Conduct the research
-Interview Link
-Transcript Link
+[Interview Link](https://youtu.be/fmvz0wfcPm8)
+[Transcript Link](https://docs.google.com/document/d/1eozhNGwwasO8S6cG7jIFJ4QoBWBI4hwF3ZWnvlgN3w0/edit?usp=sharing)
 
-Quotes
+Notes
+
+Including a forum similar to the subreddit would be helpful 
+
+Include places to find tutorial VIDEOS
+
+Include careful installation tips such as not bending any of the pins in the CPU 
 
 ## Step 6: Reflection
-
+I learned a lot from this experience, one of the main things being that I need to check if my software is working properly. My interviewee and I had to restart the session midway through because I realized my recording software wasn't picking up his voice. Making sure everything is working, then double checking on it is key. Second, I feel I could improve at directing a discussion or improvisational conversation that is not a part of the script. That way, the whole exchange could feel more natural. I struggle with this kind of on-the-spot thinking. Overall I learned quite a few things a bout what a PC builder would like to see in a website, and I will be using these insights in my design in the future. 
